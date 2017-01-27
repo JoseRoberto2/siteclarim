@@ -1,0 +1,444 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Nuntius 1.2.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/nuntius\n"
+"POT-Creation-Date: 2015-06-16 04:05:46+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:15
+msgid "Well this is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: archive.php:19 archive.php:21 archive.php:23
+msgid "Archive | %s"
+msgstr ""
+
+#: archive.php:25 archive.php:27
+msgid "%s"
+msgstr ""
+
+#: archive.php:29
+msgid "Tag Archive | %s"
+msgstr ""
+
+#: archive.php:31 sidebar.php:19
+msgid "Archives"
+msgstr ""
+
+#: archive.php:37
+msgid "You are browsing the site archives by date."
+msgstr ""
+
+#: comments.php:25 comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:26 comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:27 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:33
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: content-archive.php:8 search.php:31 sidebar-feature.php:31
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: content-archive.php:21 content.php:12 image.php:25
+#: page-template-home.php:169 page-template-home.php:218 page.php:19
+#: search.php:43 sidebar-feature.php:48
+msgid "Leave a comment"
+msgstr ""
+
+#: content-archive.php:21 content.php:12 image.php:25
+#: page-template-home.php:169 page-template-home.php:218 page.php:19
+#: search.php:43 sidebar-feature.php:48
+msgid "1 Comment"
+msgstr ""
+
+#: content-archive.php:21 content.php:12 image.php:25
+#: page-template-home.php:169 page-template-home.php:218 page.php:19
+#: search.php:43 sidebar-feature.php:48
+msgid "% Comments"
+msgstr ""
+
+#: content-archive.php:24 content.php:14 functions.php:225 functions.php:253
+#: image.php:49 image.php:108 page-template-home.php:146
+#: page-template-home.php:172 page-template-home.php:221 page.php:21
+#: search.php:46 sidebar-feature.php:51
+msgid "Edit"
+msgstr ""
+
+#: content-archive.php:30 content.php:32 image.php:95 page.php:28
+msgid "Pages:"
+msgstr ""
+
+#: content.php:31 page.php:27
+msgid "Continue Reading"
+msgstr ""
+
+#: content.php:43
+msgid "About %s"
+msgstr ""
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:17
+msgid "Semantic Personal Publishing Platform"
+msgstr ""
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:33
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:34
+msgid "Secondary Menu"
+msgstr ""
+
+#: functions.php:35
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:78
+msgid "Post navigation"
+msgstr ""
+
+#: functions.php:82
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: functions.php:83
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: functions.php:88
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: functions.php:92
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:107
+msgid "Default sidebar"
+msgstr ""
+
+#: functions.php:109
+msgid "Widgets dragged here will appear in the right sidebar."
+msgstr ""
+
+#: functions.php:117
+msgid "Header widget area"
+msgstr ""
+
+#: functions.php:119
+msgid ""
+"Widgets dragged here will appear inside the header area, to the right of the "
+"site title. This widget area works best with only one short widget."
+msgstr ""
+
+#: functions.php:127
+msgid "Feature widget area"
+msgstr ""
+
+#: functions.php:129
+msgid ""
+"Widgets placed here will appear to the right of the featured slider, if the "
+"slider is enabled. This widget area works best with only one short widget."
+msgstr ""
+
+#: functions.php:152
+msgid ""
+"<span class=\"sep\">Posted <span class=\"sep\"> by </span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%3$s\" title=\"%4$s\">%5$s</"
+"a></span> on </span> <span class=\"entry-date\"><a href=\"%1$s\" rel="
+"\"bookmark\" title=\"%7$s\">%2$s</a></span> in <span class=\"entry-categories"
+"\">%6$s</span>"
+msgstr ""
+
+#: functions.php:156 functions.php:191
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:171
+msgid ""
+"<span class=\"tag-links\">Tags: %1$s</a></span> <span class=\"entry-permalink"
+"\"><a href=\"%2$s\" title=\"Permalink to %3$s\" rel=\"bookmark\">Permalink</"
+"a></span>"
+msgstr ""
+
+#: functions.php:173
+msgid ""
+"<span class=\"entry-permalink\"><a href=\"%2$s\" title=\"Permalink to %3$s\" "
+"rel=\"bookmark\">Permalink</a></span>"
+msgstr ""
+
+#: functions.php:189
+msgid ""
+"<span class=\"sep\"> By </span> <span class=\"author vcard\"><a class=\"url "
+"fn n\" href=\"%1$s\" title=\"%2$s\">%3$s</a></span> <span class=\"entry-date"
+"\"><a href=\"%4$s\" rel=\"bookmark\" title=\"%6$s\">%5$s</a></span>"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:220
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:228
+msgid "Reply"
+msgstr ""
+
+#: functions.php:236
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:253
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:285
+msgid "Browsing: <span class=\"sep\">&raquo;</span> "
+msgstr ""
+
+#: functions.php:287
+msgid " Home "
+msgstr ""
+
+#: functions.php:300 functions.php:325 functions.php:333 functions.php:341
+#: functions.php:352 functions.php:358
+msgid "<span class=\"sep\">&raquo;</span>"
+msgstr ""
+
+#: functions.php:310
+msgid "<span class=\"sep\">&raquo;</span> Archives"
+msgstr ""
+
+#: functions.php:313
+msgid "<span class=\"sep\">&raquo;</span> Search Results"
+msgstr ""
+
+#: functions.php:316
+msgid "<span class=\"sep\">&raquo;</span> 404 Not Found"
+msgstr ""
+
+#: functions.php:405
+msgid "Page %s"
+msgstr ""
+
+#: image.php:17
+msgid "&larr; Previous"
+msgstr ""
+
+#: image.php:18
+msgid "Next &rarr;"
+msgstr ""
+
+#: image.php:41
+msgid ""
+"Published at <a href=\"%1$s\" title=\"Link to full-size image\">%2$s &times; "
+"%3$s</a> in <a href=\"%4$s\" title=\"Return to %5$s\" rel=\"gallery\">%5$s</"
+"a>"
+msgstr ""
+
+#: image.php:100
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:102
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:104
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: image.php:106
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: inc/theme-options.php:30
+msgid "Theme Options"
+msgstr ""
+
+#: inc/theme-options.php:65
+msgid "%s Theme Options"
+msgstr ""
+
+#: inc/theme-options.php:76 inc/theme-options.php:78
+msgid "Select a background color for the header and main menu"
+msgstr ""
+
+#: inc/theme-options.php:81 inc/theme-options.php:98
+msgid "Default color: %s"
+msgstr ""
+
+#: inc/theme-options.php:93 inc/theme-options.php:95
+msgid "Select a link color"
+msgstr ""
+
+#: inc/theme-options.php:109 inc/theme-options.php:112
+msgid "Choose a primary featured category for posts on the News Page template"
+msgstr ""
+
+#: inc/widgets.php:30
+msgid "Displays posts by date and comments in tab format."
+msgstr ""
+
+#: inc/widgets.php:32
+msgid "Nuntius Tabbed Widget"
+msgstr ""
+
+#: inc/widgets.php:127
+msgid "Most"
+msgstr ""
+
+#: inc/widgets.php:129
+msgid "Recent"
+msgstr ""
+
+#: inc/widgets.php:130
+msgid "Commented"
+msgstr ""
+
+#: inc/widgets.php:136
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:140
+msgid "Limit:"
+msgstr ""
+
+#: inc/widgets.php:144
+msgid "Recent Posts Tab Title:"
+msgstr ""
+
+#: inc/widgets.php:148
+msgid "Comments Tab Title:"
+msgstr ""
+
+#: page-template-home.php:53 page-template-home.php:206
+msgid "Permalink to %s"
+msgstr ""
+
+#: page-template-home.php:73
+msgid "Previous"
+msgstr ""
+
+#: page-template-home.php:74
+msgid "Next"
+msgstr ""
+
+#: page-template-home.php:162 sidebar-feature.php:41
+msgid ""
+"<span class=\"entry-date\"><a href=\"%1$s\" rel=\"bookmark\" title=\"%3$s\">"
+"%2$s</a></span>"
+msgstr ""
+
+#: page-template-home.php:200
+msgid "More Articles"
+msgstr ""
+
+#: search.php:22
+msgid "You are browsing the search results for: %s."
+msgstr ""
+
+#: search.php:59
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:62
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:12
+msgid "Search this site..."
+msgstr ""
+
+#: searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: sidebar-feature.php:23
+msgid "Top Articles"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/nuntius/style.css
+msgid "Nuntius"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/nuntius/style.css
+msgid "https://wordpress.com/themes/nuntius/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/nuntius/style.css
+msgid ""
+"If you've been itching to turn your blog into an online newspaper or "
+"magazine, Nuntius could be your perfect companion. Based on the highly-"
+"popular News theme by Justin Tadlock, Nuntius offers an advanced, news-style "
+"page template that lets you highlight sticky posts and featured categories."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/nuntius/style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/nuntius/style.css
+msgid "https://wordpress.com/themes/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/nuntius/page-template-home.php
+msgid "News Template"
+msgstr ""

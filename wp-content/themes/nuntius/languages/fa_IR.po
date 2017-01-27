@@ -1,0 +1,388 @@
+# Translation of Nuntius in Persian
+# This file is distributed under the same license as the Nuntius package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-03-01 06:07:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
+"Project-Id-Version: Nuntius\n"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/nuntius/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/nuntius/page-template-home.php
+msgid "News Template"
+msgstr "قالب تازه‌ها"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/nuntius/style.css
+msgid "If you've been itching to turn your blog into an online newspaper or magazine, Nuntius could be your perfect companion. Based on the highly-popular News theme by Justin Tadlock, Nuntius offers an advanced, news-style page template that lets you highlight sticky posts and featured categories."
+msgstr "اگر مدیست که می‌خواهید وب‌نوشت خود را به یک روزنامهٔ برخط یا مجله تبدیل کنید، Nuntius ممکن است گزینهٔ ایده‌آل شما باشد. این پوسته بر پایهٔ پوستهٔ بسیار پرطرفدار News ساختهٔ Justin Tadlock ساخته شده است و یک قالب صفحهٔ پیشرفته با سبک خبری را در اختیارتان می‌گذارد که اجازه خواهد داد نوشته‌های چسبنده و ویژه را به چشم بیاورید."
+
+#: sidebar-feature.php:23
+msgid "Top Articles"
+msgstr "برترین مطالب"
+
+#: searchform.php:12
+msgid "Search this site..."
+msgstr "این وب‌گاه را جست‌وجو کنید..."
+
+#: searchform.php:13
+msgid "Search"
+msgstr "جست‌وجو"
+
+#: search.php:62
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "متأسفیم، موردی مطابق با جستجوی شما پیدا نشد. لطفا برای جستجو از کلیدواژه‌های دیگری استفاده کنید."
+
+#: search.php:22
+msgid "You are browsing the search results for: %s."
+msgstr "شما در حال مرور نتایج جست‌وجو برای %s هستید."
+
+#: search.php:59
+msgid "Nothing Found"
+msgstr "چیزی پیدا نشد"
+
+#: page-template-home.php:162 sidebar-feature.php:41
+msgid "<span class=\"entry-date\"><a href=\"%1$s\" rel=\"bookmark\" title=\"%3$s\">%2$s</a></span>"
+msgstr "<span class=\"entry-date\"><a href=\"%1$s\" rel=\"bookmark\" title=\"%3$s\">%2$s</a></span>"
+
+#: page-template-home.php:200
+msgid "More Articles"
+msgstr "مطالب دیگر"
+
+#: page-template-home.php:74
+msgid "Next"
+msgstr "بعدی"
+
+#: page-template-home.php:73
+msgid "Previous"
+msgstr "پیشین"
+
+#: inc/widgets.php:144
+msgid "Recent Posts Tab Title:"
+msgstr "عنوان سربرگ نوشته‌های تازه:"
+
+#: inc/widgets.php:148
+msgid "Comments Tab Title:"
+msgstr "عنوان سربرگ دیدگاه‌ها:"
+
+#: page-template-home.php:53 page-template-home.php:206
+msgid "Permalink to %s"
+msgstr "پایاپیوند به %s"
+
+#: inc/widgets.php:140
+msgid "Limit:"
+msgstr "حد:"
+
+#: inc/widgets.php:130
+msgid "Commented"
+msgstr "دیدگاه گذاشته‌شده"
+
+#: inc/widgets.php:136
+msgid "Title:"
+msgstr "عنوان:"
+
+#: inc/theme-options.php:109 inc/theme-options.php:112
+msgid "Choose a primary featured category for posts on the News Page template"
+msgstr "یک دستهٔ ویژهٔ اصلی برای نوشته‌های قالب صفحهٔ تازه‌ها برگزینید"
+
+#: inc/widgets.php:30
+msgid "Displays posts by date and comments in tab format."
+msgstr "نمایش نوشته‌ها بر اساس تاریخ و دیدگاه‌ها در قالب سربرگ."
+
+#: inc/widgets.php:32
+msgid "Nuntius Tabbed Widget"
+msgstr "ابزارک سربرگ‌شدهٔ Nuntius"
+
+#: inc/widgets.php:127
+msgid "Most"
+msgstr "بیشترین"
+
+#: inc/widgets.php:129
+msgid "Recent"
+msgstr "تازه"
+
+#: inc/theme-options.php:81 inc/theme-options.php:98
+msgid "Default color: %s"
+msgstr "رنگ پیش‌فرض: %s"
+
+#: inc/theme-options.php:93 inc/theme-options.php:95
+msgid "Select a link color"
+msgstr "یک رنگ پیوند برگزینید"
+
+#: inc/theme-options.php:76 inc/theme-options.php:78
+msgid "Select a background color for the header and main menu"
+msgstr "یک تصویر پس‌زمینه برای سرآیند و گزینگان اصلی برگزینید"
+
+#: inc/theme-options.php:65
+msgid "%s Theme Options"
+msgstr "%s گزینه‌های پوسته"
+
+#: inc/theme-options.php:30
+msgid "Theme Options"
+msgstr "گزینه‌های پوسته"
+
+#: image.php:106
+msgid "Both comments and trackbacks are currently closed."
+msgstr "دیدگاه‌ها و دنبالكها هردو درحال حاضر بسته هستند."
+
+#: image.php:104
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "دنباله‌ها بسته شده‌اند، اما شما می‌توانید <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\"> دیدگاهی بیان کنید</a>."
+
+#: image.php:102
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "دیدگاه‌ها بسته شده‌اند، اما شما می‌توانید یک دنباله بگذارید: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\"> آدرس اینترنتی دنباله </a>. "
+
+#: image.php:41
+msgid "Published at <a href=\"%1$s\" title=\"Link to full-size image\">%2$s &times; %3$s</a> in <a href=\"%4$s\" title=\"Return to %5$s\" rel=\"gallery\">%5$s</a>"
+msgstr "منتشرشده در <a href=\"%1$s\" title=\"Link to full-size image\">%2$s &times; %3$s</a>  در <a href=\"%4$s\" title=\"بازگشت به %5$s\" rel=\"gallery\">%5$s</a>"
+
+#: image.php:100
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">دیدگاهی بفرستید</a> یا یک دنبالک بگذارید: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">آدرس دنبالک</a>."
+
+#: image.php:18
+msgid "Next &rarr;"
+msgstr "بعدی &rarr; "
+
+#: image.php:17
+msgid "&larr; Previous"
+msgstr "&larr; پیشین"
+
+#: functions.php:313
+msgid "<span class=\"sep\">&raquo;</span> Search Results"
+msgstr "<span class=\"sep\">&raquo;</span> نتیجه‌های جستجو"
+
+#: functions.php:316
+msgid "<span class=\"sep\">&raquo;</span> 404 Not Found"
+msgstr "<span class=\"sep\">&raquo;</span> ۴۰۴ پیدا نشد"
+
+#: functions.php:405
+msgid "Page %s"
+msgstr "صفحهٔ %s"
+
+#: functions.php:285
+msgid "Browsing: <span class=\"sep\">&raquo;</span> "
+msgstr "در حال مرور: <span class=\"sep\">&raquo;</span> "
+
+#: functions.php:287
+msgid " Home "
+msgstr " خانه "
+
+#: functions.php:300 functions.php:325 functions.php:333 functions.php:341
+#: functions.php:352 functions.php:358
+msgid "<span class=\"sep\">&raquo;</span>"
+msgstr "<span class=\"sep\">&raquo;</span>"
+
+#: functions.php:310
+msgid "<span class=\"sep\">&raquo;</span> Archives"
+msgstr "<span class=\"sep\">&raquo;</span> بایگانی‌ها"
+
+#: functions.php:253
+msgid "Pingback:"
+msgstr "بازتاب: "
+
+#: functions.php:236
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما چشم به راه بررسی است."
+
+#: functions.php:228
+msgid "Reply"
+msgstr "پاسخ"
+
+#: functions.php:173
+msgid "<span class=\"entry-permalink\"><a href=\"%2$s\" title=\"Permalink to %3$s\" rel=\"bookmark\">Permalink</a></span>"
+msgstr "<span class=\"entry-permalink\"><a href=\"%2$s\" title=\"پایاپیوند به %3$s\" rel=\"bookmark\">پایاپیوند</a></span>"
+
+#: functions.php:189
+msgid "<span class=\"sep\"> By </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\">%3$s</a></span> <span class=\"entry-date\"><a href=\"%4$s\" rel=\"bookmark\" title=\"%6$s\">%5$s</a></span>"
+msgstr "<span class=\"sep\"> بدست </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\">%3$s</a></span> <span class=\"entry-date\"><a href=\"%4$s\" rel=\"bookmark\" title=\"%6$s\">%5$s</a></span>"
+
+#. translators: 1: date, 2: time
+#: functions.php:220
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: functions.php:171
+msgid "<span class=\"tag-links\">Tags: %1$s</a></span> <span class=\"entry-permalink\"><a href=\"%2$s\" title=\"Permalink to %3$s\" rel=\"bookmark\">Permalink</a></span>"
+msgstr "<span class=\"tag-links\">برچسب‌ها: %1$s</a></span> <span class=\"entry-permalink\"><a href=\"%2$s\" title=\"پایاپیوند به %3$s\" rel=\"bookmark\">پایاپیوند</a></span>"
+
+#: functions.php:156 functions.php:191
+msgid "View all posts by %s"
+msgstr "مشاهدهٔ همهٔ نوشته‌ها بر اساس %s"
+
+#: functions.php:119
+msgid "Widgets dragged here will appear inside the header area, to the right of the site title. This widget area works best with only one short widget."
+msgstr "ابزارک‌هایی که به اینجا کشیده شوند درون پهنهٔ سرآیند، سمت راست عنوان وب‌گاه، نمایان خواهند شد. این پهنهٔ ابزارک تنها با یک ابزارک کوتاه بهترین کارکرد را خواهد داشت."
+
+#: functions.php:127
+msgid "Feature widget area"
+msgstr "پهنهٔ ابزارک ویژه"
+
+#: functions.php:129
+msgid "Widgets placed here will appear to the right of the featured slider, if the slider is enabled. This widget area works best with only one short widget."
+msgstr "ابزارک‌هایی که اینجا جای گیرند، اگر لغزنده کارا باشد، در سمت راست لغزندهٔ ویژه نمایان می‌شوند. این پهنهٔ ابزارک تنها با یک ابزارک کوتاه بهترین کارایی را خواهد داشت."
+
+#: functions.php:152
+msgid "<span class=\"sep\">Posted <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%3$s\" title=\"%4$s\">%5$s</a></span> on </span> <span class=\"entry-date\"><a href=\"%1$s\" rel=\"bookmark\" title=\"%7$s\">%2$s</a></span> in <span class=\"entry-categories\">%6$s</span>"
+msgstr "<span class=\"sep\">نوشته‌شده <span class=\"sep\"> بدست </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%3$s\" title=\"%4$s\">%5$s</a></span> در </span> <span class=\"entry-date\"><a href=\"%1$s\" rel=\"bookmark\" title=\"%7$s\">%2$s</a></span> در <span class=\"entry-categories\">%6$s</span>"
+
+#: functions.php:107
+msgid "Default sidebar"
+msgstr "ستون‌ کناری پیش‌فرض"
+
+#: functions.php:109
+msgid "Widgets dragged here will appear in the right sidebar."
+msgstr "ابزارک‌هایی که اینجا کشیده شوند در ستون کناری سمت راست نمایان خواهند شد."
+
+#: functions.php:117
+msgid "Header widget area"
+msgstr "پهنهٔ ابزارک سرآیند"
+
+#: functions.php:92
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "نوشته‌های تازه‌تر <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:88
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> نوشته‌های پیشین"
+
+#: functions.php:83
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: functions.php:82
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: functions.php:35
+msgid "Footer Menu"
+msgstr "گزینگان پسایند"
+
+#: functions.php:78
+msgid "Post navigation"
+msgstr "ناوبری نوشته"
+
+#: functions.php:34
+msgid "Secondary Menu"
+msgstr "گزینگان دوم"
+
+#: functions.php:33
+msgid "Primary Menu"
+msgstr "گزینگان اصلی"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "پوسته: %1$s کاری از %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "با افتخار، نیرو گرفته از %s"
+
+#: footer.php:17
+msgid "Semantic Personal Publishing Platform"
+msgstr "بستر معنایی نشر شخصی"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:43
+msgid "About %s"
+msgstr "دربارهٔ %s"
+
+#: content.php:31 page.php:27
+msgid "Continue Reading"
+msgstr "به خواندن ادامه دهید"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها بسته شده‌اند."
+
+#: comments.php:33
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s دیدگاه برای &ldquo;%2$s&rdquo;"
+
+#: comments.php:27 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه‌های تازه‌تر &rarr;"
+
+#: comments.php:26 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; دیدگاه‌های پیشین"
+
+#: comments.php:25 comments.php:52
+msgid "Comment navigation"
+msgstr "ناوبری دیدگاه"
+
+#: content-archive.php:30 content.php:32 image.php:95 page.php:28
+msgid "Pages:"
+msgstr "صفحه‌ها:"
+
+#: content-archive.php:24 content.php:14 functions.php:225 functions.php:253
+#: image.php:49 image.php:108 page-template-home.php:146
+#: page-template-home.php:172 page-template-home.php:221 page.php:21
+#: search.php:46 sidebar-feature.php:51
+msgid "Edit"
+msgstr "ویرایش"
+
+#: content-archive.php:21 content.php:12 image.php:25
+#: page-template-home.php:169 page-template-home.php:218 page.php:19
+#: search.php:43 sidebar-feature.php:48
+msgid "1 Comment"
+msgstr "۱ دیدگاه"
+
+#: content-archive.php:21 content.php:12 image.php:25
+#: page-template-home.php:169 page-template-home.php:218 page.php:19
+#: search.php:43 sidebar-feature.php:48
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: content-archive.php:21 content.php:12 image.php:25
+#: page-template-home.php:169 page-template-home.php:218 page.php:19
+#: search.php:43 sidebar-feature.php:48
+msgid "Leave a comment"
+msgstr "بیان دیدگاه"
+
+#: archive.php:37
+msgid "You are browsing the site archives by date."
+msgstr "شما در حال مرور بایگانی‌های وب‌گاه براساس تاریخ هستید."
+
+#: content-archive.php:8 search.php:31 sidebar-feature.php:31
+msgid "Permanent Link to %s"
+msgstr "پایاپیوند به %s "
+
+#: archive.php:29
+msgid "Tag Archive | %s"
+msgstr "بایگانی برچسب | %s"
+
+#: archive.php:31 sidebar.php:19
+msgid "Archives"
+msgstr "بایگانی"
+
+#: archive.php:19 archive.php:21 archive.php:23
+msgid "Archive | %s"
+msgstr "بایگانی | %s"
+
+#: archive.php:25 archive.php:27
+msgid "%s"
+msgstr "%s"
+
+#: 404.php:15
+msgid "Well this is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "خوب، این کمی خجالت‌آور است. اینطور نیست؟"
+
+#: 404.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به نظر می‌آید ما نمی‌توانیم آنچه به دنبالش هستید بیابیم. احتمالا جست‌وجو می‌تواند کمک کند."

@@ -1,0 +1,247 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Reposter v2.1\n"
+"POT-Creation-Date: 2016-08-24 14:00+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: BestWebSoft <wp_theme@bestwebsoft.com>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:18
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:19
+msgid "The page you have requested has flown the coop."
+msgstr ""
+
+#: 404.php:20
+msgid "Perhaps you are here because:"
+msgstr ""
+
+#: 404.php:22
+msgid "The page has moved"
+msgstr ""
+
+#: 404.php:23
+msgid "The page no longer exists"
+msgstr ""
+
+#: 404.php:24
+msgid "You were looking for your puppy and got lost"
+msgstr ""
+
+#: 404.php:25
+msgid "You like 404 pages"
+msgstr ""
+
+#: archive.php:27
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: archive.php:29
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: archive.php:33
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:35
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:37
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:54 index.php:38 search.php:39 single.php:33
+msgid "Posted on"
+msgstr ""
+
+#: archive.php:59 index.php:43 search.php:44 single.php:36
+msgid "in"
+msgstr ""
+
+#: archive.php:62 index.php:46 search.php:47 single.php:39
+msgid " author: "
+msgstr ""
+
+#: archive.php:64 index.php:48 search.php:49 single.php:41
+msgid "| Edit"
+msgstr ""
+
+#: archive.php:81 index.php:64 page.php:35 search.php:64 single.php:69
+msgid "[Top]"
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:15
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:23
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:24
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:31
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:15
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:19
+msgid "and"
+msgstr ""
+
+#: functions.php:48
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:65
+msgid "Choose file..."
+msgstr ""
+
+#: functions.php:66
+msgid "No file chosen..."
+msgstr ""
+
+#: functions.php:67
+msgid "You forgot to upload an image!"
+msgstr ""
+
+#: functions.php:89 functions.php:90
+msgid "Slide settings"
+msgstr ""
+
+#: functions.php:107
+msgid "Display this "
+msgstr ""
+
+#: functions.php:107
+msgid " in slider"
+msgstr ""
+
+#: functions.php:108
+msgid "Use image by size 940x268. If your image size is bigger than 940x268, you need upload image again and WordPress will crop your image for needed size."
+msgstr ""
+
+#: functions.php:145
+msgid "You are here: "
+msgstr ""
+
+#: functions.php:147 functions.php:191
+msgid "Home"
+msgstr ""
+
+#: functions.php:180 search.php:28 search.php:72
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: functions.php:183
+msgid "Author archives"
+msgstr ""
+
+#: functions.php:188
+msgid "Page not found"
+msgstr ""
+
+#: functions.php:203
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:205 functions.php:245
+msgid "Edit"
+msgstr ""
+
+#: functions.php:225
+#, php-format
+msgid "%1$s on %2$s said:"
+msgstr ""
+
+#: functions.php:231
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:240
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:248
+msgid "Reply"
+msgstr ""
+
+#: index.php:59
+msgid "Tags: "
+msgstr ""
+
+#: search.php:77
+msgid "Nothing was found for your request!"
+msgstr ""
+
+#: searchform.php:3
+msgid "Enter search keyword"
+msgstr ""
+
+#: searchform.php:4
+msgid "SEARCH"
+msgstr ""
+
+#: sidebar.php:13
+msgid "Archives"
+msgstr ""
+
+#: single.php:49
+msgid "&larr; Previous"
+msgstr ""
+
+#: single.php:51
+msgid "Next &rarr;"
+msgstr ""
+
+#: single.php:57
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: single.php:58
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
